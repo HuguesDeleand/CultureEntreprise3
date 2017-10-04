@@ -24,7 +24,7 @@ Username : `root`
 
 Password : `password`
 
-Dans le panneau de gauche, la base de données `siteweb` apparaît. Celle-ci contient une table `PERSONNE`.
+Dans le panneau de gauche, la base de données `siteweb` apparaît. Celle-ci contient une table `PERSONNE`. Cliquer sur la table pour visualiser son contenu (par exemple, après insertion d'une nouvelle personne depuis le fichier `index.php`).
 
 -------------------
 
