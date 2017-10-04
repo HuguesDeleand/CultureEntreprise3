@@ -14,7 +14,7 @@ $ docker-compose up
 ### 3- Accéder à la page index.php depuis le navigateur de la machine hôte
 Dans un navigateur, taper `localhost/index.php`
 
-Pour insérer des données dans la base de données depuis la machine hôte, se rendre dans le dossier `CultureEntreprise3/hugues-deleand3/siteweb/www` puis tester des requêtes PHP/MySQL.
+Pour insérer des données dans la base de données depuis la machine hôte, se rendre dans le dossier `CultureEntreprise3/hugues-deleand3/siteweb/www` puis tester des requêtes PHP/MySQL dans le fichier `index.php`
 
 
 ### 4- Accéder à PHPMyAdmin
