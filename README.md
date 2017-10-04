@@ -26,3 +26,9 @@ Password : `password`
 
 Dans le panneau de gauche, la base de données `siteweb` apparaît. Celle-ci contient une table `PERSONNE`.
 
+-------------------
+
+Version de docker utilisée (sous Linux Mint 17.3) : `Docker version 17.06.2-ce, build cec0b72`
+
+Version de docker-compose utilisée (sous Linux Mint 17.3) : `docker-compose version 1.16.1, build 6d1ac21`
+
